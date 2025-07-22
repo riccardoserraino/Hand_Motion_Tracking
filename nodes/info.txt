@@ -1,0 +1,2 @@
+This folder contains all the ROS1 nodes adopted for the whole project. 
+For the sEMG Armband, was used the following GitHub code: https://github.com/pulp-bio/emg-ros2/tree/main/gapwatch-ros1
