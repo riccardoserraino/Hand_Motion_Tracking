@@ -37,7 +37,7 @@ The folder containing ROS nodes for acquiring data for the Vicon environment.
 For the BioGAP armband refer to the github link contained in the 'info.txt' file of this folder.
 
 ### setup_pics
-The folder coontaining Photos of the environment developed and material used.
+The folder coontaining photos of the environment developed and material used.
 
 
 
