@@ -12,9 +12,14 @@ Applications include rehabilitation, prosthetics, human–robot interaction, and
 
 
 ## Project Structure
-- [Code](#code) : The section containing all the scripts used for the analysis.
-- [Nodes](#nodes) : ROS nodes for acquiring data for the Vicon environment. For the BioGAP armband refer to the github link contained in the 'info.txt' file of this folder.
-- [Setup Photos](#setup_pics) : A folder coontaining Photos of the environment developed and material used.
+### code
+The section containing all the scripts used for the analysis.
+  
+### nodes
+ROS nodes for acquiring data for the Vicon environment. For the BioGAP armband refer to the github link contained in the 'info.txt' file of this folder.
+
+### setup_pics
+A folder coontaining Photos of the environment developed and material used.
 
 
 
