@@ -1,5 +1,5 @@
 # Muscle Synergy Analysis of Hand Motion Using sEMG and Optical Tracking
-
+## Overview
 This project presents a dual-modality framework for analyzing human hand motion using:
 
 - Surface Electromyography (sEMG): to capture muscular activity.
