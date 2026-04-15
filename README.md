@@ -46,6 +46,8 @@ The folder coontaining photos of the environment developed and material used.
 ## Author 
 Riccardo Serraino
 
+Contributor: Giuliano Livi
+
 Bachelor’s Thesis in Automation Engineering
 University of Bologna, July 2025
 
